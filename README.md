@@ -10,3 +10,4 @@ Our objective for python code snippets is following :
 - Some code for fun  :sunglasses:
 
 ## Contribute
+
