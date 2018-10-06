@@ -10,5 +10,9 @@ Our objective for python code snippets is following :
 - Some code for fun  :sunglasses:
 
 ## Contribute
-Feel free to contribute via pull requests.
 
+Program ideas OR codes from your :
+- interviews
+- real-world projects
+- real-world problems
+- crazy and geeky mind
