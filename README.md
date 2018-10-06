@@ -17,4 +17,7 @@ Program ideas OR codes from your :
 - real-world problems
 - crazy and geeky mind
 
-We would highly appreciate if you can help in adding or editing documentation ( Markdown format only ) in this repository.
+We would highly appreciate if you can help in adding or editing documentation ([Markdown Format ](https://github.com/erabhishekdwevedi/utilities/blob/master/markdown-formatting.md) ) in this repository.
+
+This is [Markdown Example ](https://github.com/erabhishekdwevedi/utilities/blob/master/markdown-formatting.md) inline link.
+
