@@ -1,5 +1,4 @@
 # Python-Code-Snippets :sparkles:
-Python Code Snippets is set of codes to increase learning, reusability and enjoy python coding.
 
 ## Objective
 
