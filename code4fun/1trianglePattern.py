@@ -1,0 +1,10 @@
+"""
+Print Triangle Pattern
+
+    * 
+   * * 
+  * * * 
+ * * * * 
+* * * * *
+
+"""
