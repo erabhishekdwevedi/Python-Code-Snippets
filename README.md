@@ -19,5 +19,5 @@ Program ideas OR codes from your :
 
 We would highly appreciate if you can help in adding or editing documentation ([Markdown Format ](https://github.com/erabhishekdwevedi/utilities/blob/master/markdown-formatting.md) ) in this repository.
 
-This is [Markdown Example ](https://github.com/erabhishekdwevedi/utilities/blob/master/markdown-formatting.md) inline link.
+Refer [Markdown Examples ](https://github.com/erabhishekdwevedi/utilities/blob/master/markdown-formatting.md) for quick revision.
 
