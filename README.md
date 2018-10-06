@@ -17,4 +17,4 @@ Program ideas OR codes from your :
 - real-world problems
 - crazy and geeky mind
 
-We would highly appreciate if you can help in adding or editing documentation in this repository.
+We would highly appreciate if you can help in adding or editing documentation ( Markdown format only ) in this repository.
